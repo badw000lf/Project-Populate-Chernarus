@@ -1,0 +1,226 @@
+{
+    "version": 2,
+    "showtriggers": 0,
+    "cleanzerovector": 0,
+    "crashsitegroup": "Random",
+    "cardamage": 1,
+    "GroupLocations": [
+        {
+            "name": "Industrial",
+            "faction": "Guards",
+            "waypoints": [
+                "11468.804688 221.009903 7551.870605",
+                "11443.326172 221.000015 7520.803223",
+                "11440.728516 221.000046 7438.115234",
+                "11494.455078 220.951691 7453.562500"
+            ],
+            "npcclasses": [
+                "BanditAI_Keiko",
+                "BanditAI_Linda",
+                "BanditAI_Rolf"
+            ],
+            "accuracy": 75.0,
+            "grenadechance": 10.0,
+            "dog": 0,
+            "weaponpool": [
+                "Predefined_CZ61_Silenced",
+                "Predefined_CZ61"
+            ],
+            "npcproperties": {
+                "headgear": [
+                    "Ushanka_Black",
+                    "Ushanka_Blue",
+                    "Ushanka_Green"
+                ],
+                "masks": [
+                    "Balaclava3Holes_Beige",
+                    "Balaclava3Holes_Black",
+                    "Balaclava3Holes_Blue",
+                    "Balaclava3Holes_Green",
+                    "Balaclava3Holes_White"
+                ],
+                "vests": [
+                    "HighCapacityVest_Black",
+                    "HighCapacityVest_Olive"
+                ],
+                "backpacks": [
+                    "HuntingBag",
+                    "HuntingBag_Hannah"
+                ],
+                "bodywear": [
+                    "HuntingJacket_Brown",
+                    "HuntingJacket_Winter",
+                    "HuntingJacket_Summer",
+                    "HuntingJacket_Spring",
+                    "HuntingJacket_Brown"
+                ],
+                "belts": [
+                    "CivilianBelt",
+                    "HipPack_Black",
+                    "HipPack_Green",
+                    "HipPack_Medical",
+                    "HipPack_Party",
+                    "RopeBelt",
+                    "MilitaryBelt"
+                ],
+                "pants": [
+                    "HunterPants_Autumn",
+                    "HunterPants_Brown",
+                    "HunterPants_Spring",
+                    "HunterPants_Summer",
+                    "HunterPants_Winter"
+                ],
+                "shoes": [
+                    "CombatBoots_Beige",
+                    "CombatBoots_Black",
+                    "CombatBoots_Brown",
+                    "CombatBoots_Green",
+                    "CombatBoots_Grey"
+                ],
+                "gloves": [
+                    "OMNOGloves_Brown",
+                    "OMNOGloves_Gray"
+                ],
+                "armband": [
+                    "Armband_Wolf"
+                ],
+                "loot": [
+                    "Mag_STANAGCoupled_30Rnd",
+                    "Mag_STANAGCoupled_30Rnd",
+                    "Mag_STANAGCoupled_30Rnd",
+                    "AmmoBox_556x45_20Rnd"
+                ]
+            }
+        }
+    ],
+    "SniperLocations": [
+        {
+            "name": "Sniper",
+            "positions": [
+				"11500.378906 245.034180 7487.677734",
+				"11444.041992 233.226364 7486.181152",
+				"11544.224609, 252.141678, 7674.058594",
+				"11250.711914, 241.520447, 7580.135254"
+            ],
+            "npcclass": "BanditAI_Adam",
+            "accuracy": 75.0,
+            "fixedpos": 0,
+            "triggerpos": "11361.041992 225.050522 7519.234375",
+            "weaponpool": [
+                "Predefined_SVD"
+            ],
+            "npcproperties": {
+                "headgear": [
+                    "DarkMotoHelmet_Black",
+                    "DarkMotoHelmet_Blue",
+                    "DarkMotoHelmet_Green",
+                    "DarkMotoHelmet_Grey",
+                    "DarkMotoHelmet_Lime",
+                    "DarkMotoHelmet_Red",
+                    "DarkMotoHelmet_White",
+                    "DarkMotoHelmet_Yellow",
+                    "DirtBikeHelmet_Black",
+                    "DirtBikeHelmet_Blue",
+                    "DirtBikeHelmet_Chernarus",
+                    "DirtBikeHelmet_Green",
+                    "DirtBikeHelmet_Khaki"
+                ],
+                "masks": [],
+                "vests": [],
+                "backpacks": [
+                    "HuntingBag",
+                    "TaloonBag_Blue",
+                    "TaloonBag_Green",
+                    "TaloonBag_Orange",
+                    "TaloonBag_Violet"
+                ],
+                "bodywear": [
+                    "BomberJacket_Black",
+                    "BomberJacket_Blue",
+                    "BomberJacket_Brown",
+                    "LeatherJacket_Black",
+                    "LeatherJacket_Brown",
+                    "QuiltedJacket_Green",
+                    "QuiltedJacket_Red",
+                    "TrackSuitJacket_Black",
+                    "TrackSuitJacket_Blue",
+                    "TrackSuitJacket_Red",
+                    "HuntingJacket_Winter",
+                    "HuntingJacket_Summer",
+                    "HuntingJacket_Spring",
+                    "HuntingJacket_Brown"
+                ],
+                "belts": [],
+                "pants": [
+                    "HunterPants_Winter",
+                    "PolicePants",
+                    "PolicePantsOrel",
+                    "PrisonUniformPants",
+                    "JumpsuitPants_Blue",
+                    "Jeans_Black",
+                    "Jeans_Blue",
+                    "Jeans_BlueDark",
+                    "HunterPants_Summer",
+                    "HunterPants_Spring",
+                    "HunterPants_Brown"
+                ],
+                "shoes": [
+                    "CombatBoots_Black"
+                ],
+                "gloves": [],
+                "armband": [],
+                "loot": [
+                    "Mag_SVD_10Rnd",
+                    "BandageDressing",
+                    "GhillieAtt_Mossy",
+                    "PSO11Optic"
+                ]
+            }
+        }
+    ],
+    "PredefinedWeapons": [
+        {
+            "name": "Predefined_AKM",
+            "weapon": "AKM",
+            "attachments": [
+                "Mag_AKM_30Rnd",
+                "AK_WoodHndgrd",
+                "AK_WoodBttstck"
+            ]
+        },
+        {
+            "name": "Predefined_M4A1",
+            "weapon": "M4A1",
+            "attachments": [
+                "Mag_STANAGCoupled_30Rnd",
+                "M4_MPHndgrd",
+                "M4_CQBBttstck",
+                "ACOGOptic"
+            ]
+        },
+        {
+            "name": "Predefined_SVD",
+            "weapon": "SVD",
+            "attachments": [
+                "Mag_SVD_10Rnd",
+                "GhillieAtt_Mossy",
+                "PSO11Optic"
+            ]
+        },
+        {
+            "name": "Predefined_CZ61",
+            "weapon": "CZ61",
+            "attachments": [
+                "Mag_CZ61_20Rnd"
+            ]
+        },
+        {
+            "name": "Predefined_CZ61_Silenced",
+            "weapon": "CZ61",
+            "attachments": [
+                "Mag_CZ61_20Rnd",
+                "ImprovisedSuppressor"
+            ]
+        }
+    ]
+}
