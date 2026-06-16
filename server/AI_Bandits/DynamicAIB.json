@@ -1192,7 +1192,7 @@
             }
         },
         {
-            "name": "Unique_Area_1",
+            "name": "Unique_Area_1_Inside_Patrol",
             "faction": "Guards",
             "waypoints": [
                 "11468.804688 221.009903 7551.870605",
@@ -1211,7 +1211,111 @@
             "grenadechance": 10.0,
             "dog": 0,
             "weaponpool": [
-                "Predefined_AKM"
+                "Predefined_AKS74U"
+            ],
+            "npcproperties": {
+                "headgear": [
+                    "",
+                    "Ushanka_Black",
+                    "Ushanka_Blue",
+                    "Ushanka_Green",
+                    "FlatCap_Black",
+                    "FlatCap_BlackCheck",
+                    "FlatCap_Blue",
+                    "FlatCap_Brown",
+                    "FlatCap_BrownCheck",
+                    "FlatCap_Grey",
+                    "FlatCap_GreyCheck",
+                    "FlatCap_Red"
+                ],
+                "masks": [
+                    "",
+                    "Balaclava3Holes_Beige",
+                    "Balaclava3Holes_Black",
+                    "Balaclava3Holes_Blue",
+                    "Balaclava3Holes_Green",
+                    "Balaclava3Holes_White"
+                ],
+                "vests": [
+                    "",
+                    "ChestHolster"
+                ],
+                "backpacks": [
+                    "",
+                    "SlingBag_Black",
+                    "SlingBag_Brown",
+                    "SlingBag_Gray"
+                ],
+                "bodywear": [
+                    "BomberJacket_Black",
+                    "BomberJacket_Blue",
+                    "BomberJacket_Brown",
+                    "BomberJacket_Grey",
+                    "BomberJacket_Maroon",
+                    "BomberJacket_Olive",
+                    "BomberJacket_SkyBlue"
+                ],
+                "belts": [
+                    "",
+                    "CivilianBelt",
+                    "HipPack_Black",
+                    "HipPack_Green",
+                    "HipPack_Medical",
+                    "HipPack_Party",
+                    "RopeBelt",
+                    "MilitaryBelt"
+                ],
+                "pants": [
+                    "Jeans_Black",
+                    "Jeans_Blue",
+                    "Jeans_BlueDark",
+                    "Jeans_Brown",
+                    "Jeans_Green",
+                    "Jeans_Grey"
+                ],
+                "shoes": [
+                    "CombatBoots_Beige",
+                    "CombatBoots_Black",
+                    "CombatBoots_Brown",
+                    "CombatBoots_Green",
+                    "CombatBoots_Grey"
+                ],
+                "gloves": [
+                    "",
+                    "OMNOGloves_Brown",
+                    "OMNOGloves_Gray"
+                ],
+                "armband": [
+                    "Armband_Wolf"
+                ],
+                "loot": [
+                    "Mag_AKM_30Rnd",
+                    "Mag_AKM_30Rnd",
+                    "Mag_AKM_30Rnd",
+                    "AmmoBox_556x45_20Rnd",
+                    "Apple",
+                    "BandageDressing"
+                ]
+            }
+        },
+		{
+            "name": "Unique_Area_1_Outside_Patrol",
+            "faction": "Guards",
+            "waypoints": [
+                "11438.612305, 228.923859, 7610.251953",
+				"11414.152344, 220.747513, 7428.008301",
+				"11573.968750, 210.721466, 7415.762695"
+            ],
+            "npcclasses": [
+                "BanditAI_Adam",
+                "BanditAI_Boris",
+                "BanditAI_Cyril"
+            ],
+            "accuracy": 75.0,
+            "grenadechance": 10.0,
+            "dog": 1,
+            "weaponpool": [
+                "Predefined_AKS74U"
             ],
             "npcproperties": {
                 "headgear": [
@@ -1303,14 +1407,17 @@
         {
             "name": "Unique_Area_1_Sniper",
             "positions": [
-                "11444.041992 233.226364 7486.181152",
-                "11544.224609, 252.141678, 7674.058594",
-                "11250.711914, 241.520447, 7580.135254"
+                "11447.689453 233.226364 7498.224609",
+                "11441.325195 233.226364 7477.445801",
+                "11314.913086 231.835983 7521.586426",
+				"11473.495117 233.226364 7468.598633",
+				"11542.325195 252.253601 7674.690918",
+				"11500.241211 245.034180 7486.610840"
             ],
             "npcclass": "BanditAI_Adam",
             "accuracy": 75.0,
-            "fixedpos": 0,
-            "triggerpos": "11361.041992 225.050522 7519.234375",
+            "fixedpos": 1,
+            "triggerpos": "11467.818359 221.000031 7503.227051",
             "weaponpool": [
                 "Predefined_SVD"
             ],
