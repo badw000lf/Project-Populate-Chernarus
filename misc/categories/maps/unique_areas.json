@@ -18,7 +18,7 @@
             "grenadechance": 10.0,
             "dog": 0,
             "weaponpool": [
-                "Predefined_AKM,Predefined_FAL"
+                "Predefined_AKM"
             ],
             "npcproperties": {
                 "headgear": [
