@@ -2447,6 +2447,43 @@
     ],
     "PredefinedWeapons": [
         {
+            "name": "Predefined_CR75_9x19",
+            "weapon": "CZ75",
+            "attachments": [
+                "Mag_CZ75_15Rnd"
+            ]
+        },
+		{
+            "name": "Predefined_Glock_9x19",
+            "weapon": "Glock19",
+            "attachments": [
+                "Mag_Glock_15Rnd"
+            ]
+        },
+		{
+            "name": "Predefined_P1_9x19",
+            "weapon": "P1",
+            "attachments": [
+                "Mag_P1_8Rnd"
+            ]
+        },
+		{
+            "name": "Predefined_MP5K_9x19",
+            "weapon": "MP5K",
+            "attachments": [
+                "Mag_MP5_30Rnd",
+				"MP5_PlasticHndgrd",
+				"MP5k_StockBttstck"
+            ]
+        },
+		{
+            "name": "Predefined_P1_9x19",
+            "weapon": "P1",
+            "attachments": [
+                "Mag_P1_8Rnd"
+            ]
+        },
+		{
             "name": "Predefined_AKM",
             "weapon": "AKM",
             "attachments": [
