@@ -1,0 +1,512 @@
+    "PredefinedWeapons": [
+        {
+            "name": "Predefined_Crossbow_Autum",
+            "weapon": "Crossbow_Autumn",
+            "attachments": [
+				"Bolt",
+				"ACOGOptic",
+				"ACOGOptic_6x",
+				"ReflexOptic",
+				"M68Optic",
+				"MK4Optic_Black",
+				"MK4Optic_Green",
+				"MK4Optic_Tan",
+				"MK4Optic_Tan",
+				"M4_T3NRDSOptic"
+			]
+        },
+		{
+            "name": "Predefined_Crossbow_Black",
+            "weapon": "Crossbow_Black",
+            "attachments": [
+				"Bolt",
+				"ACOGOptic",
+				"ACOGOptic_6x",
+				"ReflexOptic",
+				"M68Optic",
+				"MK4Optic_Black",
+				"MK4Optic_Green",
+				"MK4Optic_Tan",
+				"MK4Optic_Tan",
+				"M4_T3NRDSOptic"
+			]
+        },
+		{
+            "name": "Predefined_Crossbow_Summer",
+            "weapon": "Crossbow_Summer",
+            "attachments": [
+				"Bolt",
+				"ACOGOptic",
+				"ACOGOptic_6x",
+				"ReflexOptic",
+				"M68Optic",
+				"MK4Optic_Black",
+				"MK4Optic_Green",
+				"MK4Optic_Tan",
+				"MK4Optic_Tan",
+				"M4_T3NRDSOptic"
+			]
+        },
+		{
+            "name": "Predefined_Crossbow_Wood",
+            "weapon": "Crossbow_Wood",
+            "attachments": [
+				"Bolt",
+				"ACOGOptic",
+				"ACOGOptic_6x",
+				"ReflexOptic",
+				"M68Optic",
+				"MK4Optic_Black",
+				"MK4Optic_Green",
+				"MK4Optic_Tan",
+				"MK4Optic_Tan",
+				"M4_T3NRDSOptic"
+			]
+        },
+		{
+            "name": "Predefined_CZ75",
+            "weapon": "CZ75",
+            "attachments": [
+				"Mag_CZ75_15Rnd",
+				"FNP45_MRDSOptic",
+				"TLRLight",
+				"PistolSuppressor",
+				"ImprovisedSuppressor"
+			]
+        },
+		{
+            "name": "Predefined_Deagle",
+            "weapon": "Deagle",
+            "attachments": [
+				"Mag_Deagle_9rnd",
+				"PistolOptic"
+				"FNP45_MRDSOptic",
+				"TLRLight",
+				"PistolSuppressor",
+				"ImprovisedSuppressor"
+			]
+        },
+		{
+            "name": "Predefined_Deagle_Gold",
+            "weapon": "Deagle_Gold",
+            "attachments": [
+				"Mag_Deagle_9rnd",
+				"PistolOptic"
+				"FNP45_MRDSOptic",
+				"TLRLight",
+				"PistolSuppressor",
+				"ImprovisedSuppressor"
+			]
+        },
+		{
+            "name": "Predefined_Derringer_Black",
+            "weapon": "Derringer_Black",
+            "attachments": []
+        },
+		{
+            "name": "Predefined_Derringer_Grey",
+            "weapon": "Derringer_Grey",
+            "attachments": []
+        },
+		{
+            "name": "Predefined_Derringer_Pink",
+            "weapon": "Derringer_Pink",
+            "attachments": []
+        },
+		{
+            "name": "Predefined_FNX45",
+            "weapon": "FNX45",
+            "attachments": [
+				"Mag_FNX45_15Rnd",
+				"FNP45_MRDSOptic",
+				"TLRLight",
+				"PistolSuppressor",
+				"ImprovisedSuppressor"
+			]
+        },
+		{
+            "name": "Predefined_Colt1911",
+            "weapon": "Colt1911",
+            "attachments": [
+				"Mag_1911_7Rnd",
+				"TLRLight",
+				"PistolSuppressor",
+				"ImprovisedSuppressor"
+			]
+        },
+		{
+            "name": "Predefined_Engraved1911",
+            "weapon": "Engraved1911",
+            "attachments": [
+				"Mag_1911_7Rnd",
+				"TLRLight",
+				"PistolSuppressor",
+				"ImprovisedSuppressor"
+			]
+        },
+
+
+
+
+
+// Snipers
+        {
+            "name": "Predefined_SSG82_Sniper",
+            "weapon": "SSG82",
+            "attachments": [
+                "Mag_SSG82_5rnd"
+            ]
+        },
+        {
+            "name": "Predefined_CZ527_Sniper",
+            "weapon": "CZ527",
+            "attachments": [
+                "Mag_CZ527_5rnd",
+                "HuntingOptic"
+            ]
+        },
+        {
+            "name": "Predefined_Scout_Sniper",
+            "weapon": "Scout",
+            "attachments": [
+                "Mag_Scout_5Rnd",
+                "MK4Optic_Black"
+            ]
+        },
+        {
+            "name": "Predefined_VSS_Sniper",
+            "weapon": "VSS",
+            "attachments": [
+                "Mag_VSS_10Rnd",
+                "KashtanOptic"
+            ]
+        },
+        {
+            "name": "Predefined_SKS_Sniper",
+            "weapon": "SKS",
+            "attachments": [
+                "PUScopeOptic"
+            ]
+        },
+		{
+            "name": "Predefined_SVD_Sniper",
+            "weapon": "SVD",
+            "attachments": [
+                "Mag_SVD_10Rnd",
+                "PSO11Optic"
+            ]
+        },
+		{
+            "name": "Predefined_SVD_Sniper_Ghillie",
+            "weapon": "SVD",
+            "attachments": [
+                "Mag_SVD_10Rnd",
+                "PSO11Optic",
+				"GhillieAtt_Mossy"
+            ]
+        },
+		{
+            "name": "Predefined_M14_Sniper",
+            "weapon": "M14",
+            "attachments": [
+                "Mag_M14_10Rnd",
+				"MK4Optic_Black"
+            ]
+        },
+        {
+            "name": "Predefined_M14_Sniper_Ghillie",
+            "weapon": "M14",
+            "attachments": [
+                "Mag_M14_10Rnd",
+				"MK4Optic_Black",
+				"GhillieAtt_Mossy"
+            ]
+        },
+		{
+            "name": "Predefined_LAR_Sniper",
+            "weapon": "LAR",
+            "attachments": [
+				"Fal_OeBttstck",
+                "Mag_FAL_20Rnd",
+				"MK4Optic_Black"
+            ]
+        },
+        {
+            "name": "Predefined_LAR_Sniper_Ghillie",
+            "weapon": "LAR",
+            "attachments": [
+                "Fal_OeBttstck",
+				"Mag_FAL_20Rnd",
+				"MK4Optic_Black",
+				"GhillieAtt_Mossy"
+            ]
+        },
+		{
+            "name": "Predefined_Winchester70_Sniper",
+            "weapon": "Winchester70",
+            "attachments": [
+				"MK4Optic_Black"
+            ]
+        },
+        {
+            "name": "Predefined_Winchester70_Sniper_Ghillie",
+            "weapon": "Winchester70",
+            "attachments": [
+				"MK4Optic_Black",
+				"GhillieAtt_Mossy"
+            ]
+        },
+		{
+            "name": "Predefined_B95_Sniper",
+            "weapon": "B95",
+            "attachments": [
+				"MK4Optic_Black"
+            ]
+        },
+        {
+            "name": "Predefined_B95_Sniper_Ghillie",
+            "weapon": "B95",
+            "attachments": [
+				"MK4Optic_Black",
+				"GhillieAtt_Mossy"
+            ]
+        },
+		{
+            "name": "Predefined_CZ550_Sniper",
+            "weapon": "CZ550",
+            "attachments": [
+				"Mag_CZ550_10Rnd",
+				"MK4Optic_Black"
+            ]
+        },
+        {
+            "name": "Predefined_CZ550_Sniper_Ghillie",
+            "weapon": "CZ550",
+            "attachments": [
+				"Mag_CZ550_10Rnd",
+				"MK4Optic_Black",
+				"GhillieAtt_Mossy"
+            ]
+        },
+		{
+            "name": "Predefined_Mosin9130_Sniper",
+            "weapon": "Mosin9130",
+            "attachments": [
+				"Mosin_Compensator",
+				"PUScopeOptic"
+            ]
+        },
+        {
+            "name": "Predefined_Mosin9130_Sniper_Ghillie",
+            "weapon": "Mosin9130",
+            "attachments": [
+				"Mosin_Compensator",
+				"PUScopeOptic",
+				"GhillieAtt_Mossy"
+            ]
+        },
+		{
+            "name": "Predefined_SV98_Sniper",
+            "weapon": "SV98",
+            "attachments": [
+				"Mag_SV98_10Rnd",
+				"MK4Optic_Black"
+            ]
+        },
+        {
+            "name": "Predefined_SV98_Sniper_Ghillie",
+            "weapon": "SV98",
+            "attachments": [
+				"Mag_SV98_10Rnd",
+				"MK4Optic_Black",
+				"GhillieAtt_Mossy"
+            ]
+        },
+		{
+            "name": "Predefined_SVD_Sniper",
+            "weapon": "SVD",
+            "attachments": [
+                "Mag_SVD_10Rnd",
+                "PSO11Optic"
+            ]
+        },
+        {
+            "name": "Predefined_SVD_Sniper_Ghillie",
+            "weapon": "SVD",
+            "attachments": [
+                "Mag_SVD_10Rnd",
+                "PSO11Optic",
+                "GhillieAtt_Mossy"
+            ]
+        },
+        {
+            "name": "Predefined_M14_Sniper",
+            "weapon": "M14",
+            "attachments": [
+                "Mag_M14_10Rnd",
+                "MK4Optic_Black"
+            ]
+        },
+        {
+            "name": "Predefined_M14_Sniper_Ghillie",
+            "weapon": "M14",
+            "attachments": [
+                "Mag_M14_10Rnd",
+                "MK4Optic_Black",
+                "GhillieAtt_Mossy"
+            ]
+        },
+        {
+            "name": "Predefined_LAR_Sniper",
+            "weapon": "LAR",
+            "attachments": [
+                "Fal_OeBttstck",
+                "Mag_FAL_20Rnd",
+                "MK4Optic_Black"
+            ]
+        },
+        {
+            "name": "Predefined_LAR_Sniper_Ghillie",
+            "weapon": "LAR",
+            "attachments": [
+                "Fal_OeBttstck",
+                "Mag_FAL_20Rnd",
+                "MK4Optic_Black",
+                "GhillieAtt_Mossy"
+            ]
+        },
+        {
+            "name": "Predefined_Winchester70_Sniper",
+            "weapon": "Winchester70",
+            "attachments": [
+                "MK4Optic_Black"
+            ]
+        },
+        {
+            "name": "Predefined_Winchester70_Sniper_Ghillie",
+            "weapon": "Winchester70",
+            "attachments": [
+                "MK4Optic_Black",
+                "GhillieAtt_Mossy"
+            ]
+        },
+        {
+            "name": "Predefined_B95_Sniper",
+            "weapon": "B95",
+            "attachments": [
+                "MK4Optic_Black"
+            ]
+        },
+        {
+            "name": "Predefined_B95_Sniper_Ghillie",
+            "weapon": "B95",
+            "attachments": [
+                "MK4Optic_Black",
+                "GhillieAtt_Mossy"
+            ]
+        },
+        {
+            "name": "Predefined_CZ550_Sniper",
+            "weapon": "CZ550",
+            "attachments": [
+                "Mag_CZ550_10Rnd",
+                "MK4Optic_Black"
+            ]
+        },
+        {
+            "name": "Predefined_CZ550_Sniper_Ghillie",
+            "weapon": "CZ550",
+            "attachments": [
+                "Mag_CZ550_10Rnd",
+                "MK4Optic_Black",
+                "GhillieAtt_Mossy"
+            ]
+        },
+        {
+            "name": "Predefined_Mosin9130_Sniper",
+            "weapon": "Mosin9130",
+            "attachments": [
+                "Mosin_Compensator",
+                "PUScopeOptic"
+            ]
+        },
+        {
+            "name": "Predefined_Mosin9130_Sniper_Ghillie",
+            "weapon": "Mosin9130",
+            "attachments": [
+                "Mosin_Compensator",
+                "PUScopeOptic",
+                "GhillieAtt_Mossy"
+            ]
+        },
+        {
+            "name": "Predefined_SV98_Sniper",
+            "weapon": "SV98",
+            "attachments": [
+                "Mag_SV98_10Rnd",
+                "MK4Optic_Black"
+            ]
+        },
+        {
+            "name": "Predefined_SV98_Sniper_Ghillie",
+            "weapon": "SV98",
+            "attachments": [
+                "Mag_SV98_10Rnd",
+                "MK4Optic_Black",
+                "GhillieAtt_Mossy"
+            ]
+        }
+
+
+
+
+
+		
+		
+		
+		
+		{
+            "name": "Predefined_AKM",
+            "weapon": "AKM",
+            "attachments": [
+                "Mag_AKM_30Rnd",
+                "AK_WoodHndgrd",
+                "AK_WoodBttstck"
+            ]
+        },
+        {
+            "name": "Predefined_M4A1",
+            "weapon": "M4A1",
+            "attachments": [
+                "Mag_STANAGCoupled_30Rnd",
+                "M4_MPHndgrd",
+                "M4_CQBBttstck",
+                "ACOGOptic"
+            ]
+        },
+        {
+            "name": "Predefined_SVD",
+            "weapon": "SVD",
+            "attachments": [
+                "Mag_SVD_10Rnd",
+                "GhillieAtt_Mossy",
+                "PSO11Optic"
+            ]
+        },
+        {
+            "name": "Predefined_CZ61",
+            "weapon": "CZ61",
+            "attachments": [
+                "Mag_CZ61_20Rnd"
+            ]
+        },
+        {
+            "name": "Predefined_CZ61_Silenced",
+            "weapon": "CZ61",
+            "attachments": [
+                "Mag_CZ61_20Rnd",
+                "ImprovisedSuppressor"
+            ]
+        }
+    ]
+}

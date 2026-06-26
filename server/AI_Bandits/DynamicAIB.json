@@ -1606,7 +1606,7 @@
                 ]
             }
         },
-        {
+		{
             "name": "Tier_1_ContaminatedArea_Rify_Outside",
             "faction": "Bandits",
             "waypoints": [
@@ -1617,18 +1617,25 @@
             ],
             "npcclasses": [
                 "BanditAI_Adam",
-                "BanditAI_Boris",
-                "BanditAI_Cyril"
+				"BanditAI_Boris",
+				"BanditAI_Cyril"
             ],
             "accuracy": 75.0,
             "grenadechance": 10.0,
             "dog": 0,
             "weaponpool": [
-                "Predefined_M16A2"
+                "AugShort",
+				"Aug",
+				"AK101",
+				"FAMAS",
+				"M16A2",
+				"M4A1"
             ],
             "npcproperties": {
                 "headgear": [
-                    "NBCHoodYellow"
+                    "NBCHoodGray",
+					"NBCHoodYellow",
+					"NBCHoodWhite"
                 ],
                 "masks": [
                     "AirborneMask"
@@ -1636,31 +1643,38 @@
                 "vests": [],
                 "backpacks": [],
                 "bodywear": [
-                    "NBCJacketYellow"
+                    "NBCJacketGray",
+					"NBCJacketYellow",
+					"NBCJacketWhite"
                 ],
                 "belts": [],
                 "pants": [
-                    "NBCPantsYellow"
+                    "NBCPantsGray",
+					"NBCPantsYellow",
+					"NBCPantsWhite"
                 ],
                 "shoes": [
-                    "NBCBootsYellow"
+                    "NBCBootsGray",
+					"NBCBootsYellow",
+					"NBCBootsWhite"
                 ],
                 "gloves": [
-                    "NBCGlovesYellow"
+                    "NBCGlovesGray",
+					"NBCGlovesYellow"
                 ],
                 "armband": [],
                 "loot": [
                     "GasMask_Filter",
-                    "GasMask_Filter",
+					"GasMask_Filter",
                     "AmmoBox_556x45_20Rnd",
                     "BakedBeansCan",
                     "BandageDressing",
-                    "BandageDressing",
-                    "BandageDressing"
+					"BandageDressing",
+					"BandageDressing"
                 ]
             }
         },
-        {
+		{
             "name": "Tier_1_ContaminatedArea_Rify_Inside",
             "faction": "Bandits",
             "waypoints": [
@@ -1671,7 +1685,7 @@
             ],
             "npcclasses": [
                 "BanditAI_Adam",
-                "BanditAI_Boris"
+				"BanditAI_Boris"
             ],
             "accuracy": 75.0,
             "grenadechance": 10.0,
@@ -1681,7 +1695,7 @@
             ],
             "npcproperties": {
                 "headgear": [
-                    "NBCHoodYellow"
+					"NBCHoodYellow"
                 ],
                 "masks": [
                     "AirborneMask"
@@ -1689,42 +1703,42 @@
                 "vests": [],
                 "backpacks": [],
                 "bodywear": [
-                    "NBCJacketYellow"
+					"NBCJacketYellow"
                 ],
                 "belts": [],
                 "pants": [
-                    "NBCPantsYellow"
+					"NBCPantsYellow"
                 ],
                 "shoes": [
-                    "NBCBootsYellow"
+					"NBCBootsYellow"
                 ],
                 "gloves": [
-                    "NBCGlovesYellow"
+					"NBCGlovesYellow"
                 ],
                 "armband": [],
                 "loot": [
                     "GasMask_Filter",
-                    "GasMask_Filter",
+					"GasMask_Filter",
                     "AmmoBox_556x45_20Rnd",
                     "BakedBeansCan",
                     "BandageDressing",
-                    "BandageDressing",
-                    "BandageDressing"
+					"BandageDressing",
+					"BandageDressing"
                 ]
             }
         },
-        {
+		{
             "name": "Tier_1_ContaminatedArea_Rify_Patrol",
             "faction": "Bandits",
             "waypoints": [
                 "13622.507813 1.494751 11064.838867",
-                "13942.212891 1.710559 11182.765625",
-                "13688.730469 2.086754 11226.356445"
+				"13942.212891 1.710559 11182.765625",
+				"13688.730469 2.086754 11226.356445"
             ],
             "npcclasses": [
                 "BanditAI_Adam",
-                "BanditAI_Boris",
-                "BanditAI_Cyril"
+				"BanditAI_Boris",
+				"BanditAI_Cyril"
             ],
             "accuracy": 75.0,
             "grenadechance": 10.0,
@@ -1734,7 +1748,7 @@
             ],
             "npcproperties": {
                 "headgear": [
-                    "NBCHoodYellow"
+					"NBCHoodYellow"
                 ],
                 "masks": [
                     "AirborneMask"
@@ -1742,27 +1756,566 @@
                 "vests": [],
                 "backpacks": [],
                 "bodywear": [
-                    "NBCJacketYellow"
+					"NBCJacketYellow"
                 ],
                 "belts": [],
                 "pants": [
-                    "NBCPantsYellow"
+					"NBCPantsYellow"
                 ],
                 "shoes": [
-                    "NBCBootsYellow"
+					"NBCBootsYellow"
                 ],
                 "gloves": [
-                    "NBCGlovesYellow"
+					"NBCGlovesYellow"
                 ],
                 "armband": [],
                 "loot": [
                     "GasMask_Filter",
-                    "GasMask_Filter",
+					"GasMask_Filter",
                     "AmmoBox_556x45_20Rnd",
                     "BakedBeansCan",
                     "BandageDressing",
+					"BandageDressing",
+					"BandageDressing"
+                ]
+            }
+        },
+		{
+            "name": "Tier_1_ContaminatedArea_Rify_Static_1",
+            "faction": "Bandits",
+            "waypoints": [
+                "13781.867188 21.156681 11136.858398"
+            ],
+            "npcclasses": [
+                "BanditAI_Adam"
+            ],
+            "accuracy": 75.0,
+            "grenadechance": 10.0,
+            "dog": 0,
+            "weaponpool": [
+                "Predefined_M16A2"
+            ],
+            "npcproperties": {
+                "headgear": [
+					"NBCHoodYellow"
+                ],
+                "masks": [
+                    "AirborneMask"
+                ],
+                "vests": [],
+                "backpacks": [],
+                "bodywear": [
+					"NBCJacketYellow"
+                ],
+                "belts": [],
+                "pants": [
+					"NBCPantsYellow"
+                ],
+                "shoes": [
+					"NBCBootsYellow"
+                ],
+                "gloves": [
+					"NBCGlovesYellow"
+                ],
+                "armband": [],
+                "loot": [
+                    "GasMask_Filter",
+					"GasMask_Filter",
+                    "AmmoBox_556x45_20Rnd",
+                    "BakedBeansCan",
                     "BandageDressing",
-                    "BandageDressing"
+					"BandageDressing",
+					"BandageDressing"
+                ]
+            }
+        },
+		{
+            "name": "Tier_1_ContaminatedArea_Rify_Static_2",
+            "faction": "Bandits",
+            "waypoints": [
+                "13752.898438 15.756404 11125.302734"
+            ],
+            "npcclasses": [
+                "BanditAI_Adam"
+            ],
+            "accuracy": 75.0,
+            "grenadechance": 10.0,
+            "dog": 0,
+            "weaponpool": [
+                "Predefined_M16A2"
+            ],
+            "npcproperties": {
+                "headgear": [
+					"NBCHoodYellow"
+                ],
+                "masks": [
+                    "AirborneMask"
+                ],
+                "vests": [],
+                "backpacks": [],
+                "bodywear": [
+					"NBCJacketYellow"
+                ],
+                "belts": [],
+                "pants": [
+					"NBCPantsYellow"
+                ],
+                "shoes": [
+					"NBCBootsYellow"
+                ],
+                "gloves": [
+					"NBCGlovesYellow"
+                ],
+                "armband": [],
+                "loot": [
+                    "GasMask_Filter",
+					"GasMask_Filter",
+                    "AmmoBox_556x45_20Rnd",
+                    "BakedBeansCan",
+                    "BandageDressing",
+					"BandageDressing",
+					"BandageDressing"
+                ]
+            }
+        },
+		{
+            "name": "Tier_1_ContaminatedArea_Rify_Static_3",
+            "faction": "Bandits",
+            "waypoints": [
+                "13797.684570 26.549076 11138.910156"
+            ],
+            "npcclasses": [
+                "BanditAI_Adam"
+            ],
+            "accuracy": 75.0,
+            "grenadechance": 10.0,
+            "dog": 0,
+            "weaponpool": [
+                "Predefined_M16A2"
+            ],
+            "npcproperties": {
+                "headgear": [
+					"NBCHoodYellow"
+                ],
+                "masks": [
+                    "AirborneMask"
+                ],
+                "vests": [],
+                "backpacks": [],
+                "bodywear": [
+					"NBCJacketYellow"
+                ],
+                "belts": [],
+                "pants": [
+					"NBCPantsYellow"
+                ],
+                "shoes": [
+					"NBCBootsYellow"
+                ],
+                "gloves": [
+					"NBCGlovesYellow"
+                ],
+                "armband": [],
+                "loot": [
+                    "GasMask_Filter",
+					"GasMask_Filter",
+                    "AmmoBox_556x45_20Rnd",
+                    "BakedBeansCan",
+                    "BandageDressing",
+					"BandageDressing",
+					"BandageDressing"
+                ]
+            }
+        },
+		{
+            "name": "Tier_1_ContaminatedArea_Rify_Static_4",
+            "faction": "Bandits",
+            "waypoints": [
+                "13898.360352 15.702215 11169.083008"
+            ],
+            "npcclasses": [
+                "BanditAI_Adam"
+            ],
+            "accuracy": 75.0,
+            "grenadechance": 10.0,
+            "dog": 0,
+            "weaponpool": [
+                "Predefined_M16A2"
+            ],
+            "npcproperties": {
+                "headgear": [
+					"NBCHoodYellow"
+                ],
+                "masks": [
+                    "AirborneMask"
+                ],
+                "vests": [],
+                "backpacks": [],
+                "bodywear": [
+					"NBCJacketYellow"
+                ],
+                "belts": [],
+                "pants": [
+					"NBCPantsYellow"
+                ],
+                "shoes": [
+					"NBCBootsYellow"
+                ],
+                "gloves": [
+					"NBCGlovesYellow"
+                ],
+                "armband": [],
+                "loot": [
+                    "GasMask_Filter",
+					"GasMask_Filter",
+                    "AmmoBox_556x45_20Rnd",
+                    "BakedBeansCan",
+                    "BandageDressing",
+					"BandageDressing",
+					"BandageDressing"
+                ]
+            }
+        },
+		{
+            "name": "Tier_1_ContaminatedArea_Rify_Static_5",
+            "faction": "Bandits",
+            "waypoints": [
+                "13860.502930 1.241096 11163.264648"
+            ],
+            "npcclasses": [
+                "BanditAI_Adam"
+            ],
+            "accuracy": 75.0,
+            "grenadechance": 10.0,
+            "dog": 0,
+            "weaponpool": [
+                "Predefined_M16A2"
+            ],
+            "npcproperties": {
+                "headgear": [
+					"NBCHoodYellow"
+                ],
+                "masks": [
+                    "AirborneMask"
+                ],
+                "vests": [],
+                "backpacks": [],
+                "bodywear": [
+					"NBCJacketYellow"
+                ],
+                "belts": [],
+                "pants": [
+					"NBCPantsYellow"
+                ],
+                "shoes": [
+					"NBCBootsYellow"
+                ],
+                "gloves": [
+					"NBCGlovesYellow"
+                ],
+                "armband": [],
+                "loot": [
+                    "GasMask_Filter",
+					"GasMask_Filter",
+                    "AmmoBox_556x45_20Rnd",
+                    "BakedBeansCan",
+                    "BandageDressing",
+					"BandageDressing",
+					"BandageDressing"
+                ]
+            }
+        },
+		{
+            "name": "Tier_1_ContaminatedArea_Rify_Static_6",
+            "faction": "Bandits",
+            "waypoints": [
+                "13784.798828 15.757008 11146.149414"
+            ],
+            "npcclasses": [
+                "BanditAI_Adam"
+            ],
+            "accuracy": 75.0,
+            "grenadechance": 10.0,
+            "dog": 0,
+            "weaponpool": [
+                "Predefined_M16A2"
+            ],
+            "npcproperties": {
+                "headgear": [
+					"NBCHoodYellow"
+                ],
+                "masks": [
+                    "AirborneMask"
+                ],
+                "vests": [],
+                "backpacks": [],
+                "bodywear": [
+					"NBCJacketYellow"
+                ],
+                "belts": [],
+                "pants": [
+					"NBCPantsYellow"
+                ],
+                "shoes": [
+					"NBCBootsYellow"
+                ],
+                "gloves": [
+					"NBCGlovesYellow"
+                ],
+                "armband": [],
+                "loot": [
+                    "GasMask_Filter",
+					"GasMask_Filter",
+                    "AmmoBox_556x45_20Rnd",
+                    "BakedBeansCan",
+                    "BandageDressing",
+					"BandageDressing",
+					"BandageDressing"
+                ]
+            }
+        },
+		{
+            "name": "Tier_1_ContaminatedArea_Rify_Static_7",
+            "faction": "Bandits",
+            "waypoints": [
+                "13874.397461 15.204642 11171.810547"
+            ],
+            "npcclasses": [
+                "BanditAI_Adam"
+            ],
+            "accuracy": 75.0,
+            "grenadechance": 10.0,
+            "dog": 0,
+            "weaponpool": [
+                "Predefined_M16A2"
+            ],
+            "npcproperties": {
+                "headgear": [
+					"NBCHoodYellow"
+                ],
+                "masks": [
+                    "AirborneMask"
+                ],
+                "vests": [],
+                "backpacks": [],
+                "bodywear": [
+					"NBCJacketYellow"
+                ],
+                "belts": [],
+                "pants": [
+					"NBCPantsYellow"
+                ],
+                "shoes": [
+					"NBCBootsYellow"
+                ],
+                "gloves": [
+					"NBCGlovesYellow"
+                ],
+                "armband": [],
+                "loot": [
+                    "GasMask_Filter",
+					"GasMask_Filter",
+                    "AmmoBox_556x45_20Rnd",
+                    "BakedBeansCan",
+                    "BandageDressing",
+					"BandageDressing",
+					"BandageDressing"
+                ]
+            }
+        },
+		{
+            "name": "Tier_1_ContaminatedArea_Rify_Static_8",
+            "faction": "Bandits",
+            "waypoints": [
+                "13763.914063 9.256703 11125.879883"
+            ],
+            "npcclasses": [
+                "BanditAI_Adam"
+            ],
+            "accuracy": 75.0,
+            "grenadechance": 10.0,
+            "dog": 0,
+            "weaponpool": [
+                "Predefined_M16A2"
+            ],
+            "npcproperties": {
+                "headgear": [
+					"NBCHoodYellow"
+                ],
+                "masks": [
+                    "AirborneMask"
+                ],
+                "vests": [],
+                "backpacks": [],
+                "bodywear": [
+					"NBCJacketYellow"
+                ],
+                "belts": [],
+                "pants": [
+					"NBCPantsYellow"
+                ],
+                "shoes": [
+					"NBCBootsYellow"
+                ],
+                "gloves": [
+					"NBCGlovesYellow"
+                ],
+                "armband": [],
+                "loot": [
+                    "GasMask_Filter",
+					"GasMask_Filter",
+                    "AmmoBox_556x45_20Rnd",
+                    "BakedBeansCan",
+                    "BandageDressing",
+					"BandageDressing",
+					"BandageDressing"
+                ]
+            }
+        },
+		{
+            "name": "Tier_1_ContaminatedArea_Rify_Static_9",
+            "faction": "Bandits",
+            "waypoints": [
+                "13795.541992 23.855680 11133.375000"
+            ],
+            "npcclasses": [
+                "BanditAI_Adam"
+            ],
+            "accuracy": 75.0,
+            "grenadechance": 10.0,
+            "dog": 0,
+            "weaponpool": [
+                "Predefined_M16A2"
+            ],
+            "npcproperties": {
+                "headgear": [
+					"NBCHoodYellow"
+                ],
+                "masks": [
+                    "AirborneMask"
+                ],
+                "vests": [],
+                "backpacks": [],
+                "bodywear": [
+					"NBCJacketYellow"
+                ],
+                "belts": [],
+                "pants": [
+					"NBCPantsYellow"
+                ],
+                "shoes": [
+					"NBCBootsYellow"
+                ],
+                "gloves": [
+					"NBCGlovesYellow"
+                ],
+                "armband": [],
+                "loot": [
+                    "GasMask_Filter",
+					"GasMask_Filter",
+                    "AmmoBox_556x45_20Rnd",
+                    "BakedBeansCan",
+                    "BandageDressing",
+					"BandageDressing",
+					"BandageDressing"
+                ]
+            }
+        },
+		{
+            "name": "Tier_1_ContaminatedArea_Rify_Static_10",
+            "faction": "Bandits",
+            "waypoints": [
+                "13777.129883 13.047923 11134.694336"
+            ],
+            "npcclasses": [
+                "BanditAI_Adam"
+            ],
+            "accuracy": 75.0,
+            "grenadechance": 10.0,
+            "dog": 0,
+            "weaponpool": [
+                "Predefined_M16A2"
+            ],
+            "npcproperties": {
+                "headgear": [
+					"NBCHoodYellow"
+                ],
+                "masks": [
+                    "AirborneMask"
+                ],
+                "vests": [],
+                "backpacks": [],
+                "bodywear": [
+					"NBCJacketYellow"
+                ],
+                "belts": [],
+                "pants": [
+					"NBCPantsYellow"
+                ],
+                "shoes": [
+					"NBCBootsYellow"
+                ],
+                "gloves": [
+					"NBCGlovesYellow"
+                ],
+                "armband": [],
+                "loot": [
+                    "GasMask_Filter",
+					"GasMask_Filter",
+                    "AmmoBox_556x45_20Rnd",
+                    "BakedBeansCan",
+                    "BandageDressing",
+					"BandageDressing",
+					"BandageDressing"
+                ]
+            }
+        },
+		{
+            "name": "Tier_1_ContaminatedArea_Rify_Static_11",
+            "faction": "Bandits",
+            "waypoints": [
+                "13804.087891 15.756988 11139.009766"
+            ],
+            "npcclasses": [
+                "BanditAI_Adam"
+            ],
+            "accuracy": 75.0,
+            "grenadechance": 10.0,
+            "dog": 0,
+            "weaponpool": [
+                "Predefined_M16A2"
+            ],
+            "npcproperties": {
+                "headgear": [
+					"NBCHoodYellow"
+                ],
+                "masks": [
+                    "AirborneMask"
+                ],
+                "vests": [],
+                "backpacks": [],
+                "bodywear": [
+					"NBCJacketYellow"
+                ],
+                "belts": [],
+                "pants": [
+					"NBCPantsYellow"
+                ],
+                "shoes": [
+					"NBCBootsYellow"
+                ],
+                "gloves": [
+					"NBCGlovesYellow"
+                ],
+                "armband": [],
+                "loot": [
+                    "GasMask_Filter",
+					"GasMask_Filter",
+                    "AmmoBox_556x45_20Rnd",
+                    "BakedBeansCan",
+                    "BandageDressing",
+					"BandageDressing",
+					"BandageDressing"
                 ]
             }
         }
@@ -1853,15 +2406,15 @@
                 ]
             }
         },
-        {
+		{
             "name": "Tier_1_ContaminatedArea_Rify_Sniper",
             "positions": [
                 "13754.712891 18.799303 11129.324219",
-                "13788.301758 31.321171 11139.688477",
-                "13867.606445, 25.433674, 11246.532227",
-                "13988.044922, 32.307335, 11222.541992",
-                "13680.038086, 7.798558, 11086.252930",
-                "13899.750000, 15.730770, 11168.876953"
+				"13788.301758 31.321171 11139.688477",
+				"13867.606445, 25.433674, 11246.532227",
+				"13988.044922, 32.307335, 11222.541992",
+				"13680.038086, 7.798558, 11086.252930",
+				"13899.750000, 15.730770, 11168.876953"
             ],
             "npcclass": "BanditAI_Adam",
             "accuracy": 75.0,
@@ -1872,7 +2425,7 @@
             ],
             "npcproperties": {
                 "headgear": [
-                    "NBCHoodYellow"
+					"NBCHoodYellow"
                 ],
                 "masks": [
                     "AirborneMask"
@@ -1880,22 +2433,22 @@
                 "vests": [],
                 "backpacks": [],
                 "bodywear": [
-                    "NBCJacketYellow"
+					"NBCJacketYellow"
                 ],
                 "belts": [],
                 "pants": [
-                    "NBCPantsYellow"
+					"NBCPantsYellow"
                 ],
                 "shoes": [
-                    "NBCBootsYellow"
+					"NBCBootsYellow"
                 ],
                 "gloves": [
-                    "NBCGlovesYellow"
+					"NBCGlovesYellow"
                 ],
                 "armband": [],
                 "loot": [
                     "GasMask_Filter",
-                    "GasMask_Filter",
+					"GasMask_Filter",
                     "AmmoBox_556x45_20Rnd",
                     "BakedBeansCan",
                     "Mag_SVD_10Rnd",
@@ -1907,36 +2460,6 @@
         }
     ],
     "PredefinedWeapons": [
-        {
-            "name": "Predefined_CR75_9x19",
-            "weapon": "CZ75",
-            "attachments": [
-                "Mag_CZ75_15Rnd"
-            ]
-        },
-        {
-            "name": "Predefined_Glock_9x19",
-            "weapon": "Glock19",
-            "attachments": [
-                "Mag_Glock_15Rnd"
-            ]
-        },
-        {
-            "name": "Predefined_P1_9x19",
-            "weapon": "P1",
-            "attachments": [
-                "Mag_P1_8Rnd"
-            ]
-        },
-        {
-            "name": "Predefined_MP5K_9x19",
-            "weapon": "MP5K",
-            "attachments": [
-                "Mag_MP5_30Rnd",
-                "MP5_PlasticHndgrd",
-                "MP5k_StockBttstck"
-            ]
-        },
         {
             "name": "Predefined_AKM",
             "weapon": "AKM",
@@ -1971,7 +2494,7 @@
                 "ACOGOptic"
             ]
         },
-        {
+		{
             "name": "Predefined_M16A2",
             "weapon": "M16A2",
             "attachments": [
