@@ -15,7 +15,7 @@ Write a wiki page explaining the "lore" of the world and what to expect at each 
 ## Completed
 - All 91 Tier 2 Hunting Stands + Clothing/Weapon Loadouts
 - All 94 Tier 3 Hunting Stands + Clothing/Weapon Loadouts
-- Tier 1 Water Pump Bandit Patrol Waypoints
+- All 24 Tier 1 Water Pump's Bandit Patrol Waypoints
 - Knock Knock AI Bandit Loadout
 ## Working
 - Tier 1 Unqie area
