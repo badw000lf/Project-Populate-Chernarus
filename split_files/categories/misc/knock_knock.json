@@ -31,24 +31,10 @@
                 "KitchenKnife",
                 "Sickle",
                 "MeatTenderizer",
-                "BaseballBat",
-                "BarbedBaseballBat",
-                "NailedBaseballBat",
-                "Crowbar",
                 "Pipe",
                 "PipeWrench",
                 "StunBaton",
-                "FirefighterAxe",
-                "FirefighterAxe_Black",
-                "FirefighterAxe_Green",
-                "Hatchet",
-                "WoodAxe",
-                "SpearStone",
-                "SpearBone",
-                "Pitchfork",
-                "Spear",
-                "SharpWoodenStick",
-                "SharpLongWoodenStick"
+                "Hatchet"
             ],
             "npcproperties": {
                 "headgear": [
