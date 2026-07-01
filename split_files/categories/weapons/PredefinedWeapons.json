@@ -456,6 +456,23 @@
                 "GhillieAtt_Mossy"
             ]
         }
+		
+// Contaminated
+{
+            "name": "Predefined_M16A2_Bayo",
+            "weapon": "M16A2",
+            "attachments": [
+                "Mag_STANAGCoupled_30Rnd",
+                "M9A1_Bayonet"
+            ]
+        },
+		{
+            "name": "Predefined_M16A2",
+            "weapon": "M16A2",
+            "attachments": [
+                "Mag_STANAGCoupled_30Rnd"
+            ]
+        },
 
 
 
@@ -464,7 +481,7 @@
 		
 		
 		
-		
+// Default
 		{
             "name": "Predefined_AKM",
             "weapon": "AKM",
