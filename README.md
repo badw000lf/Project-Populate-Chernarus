@@ -13,9 +13,9 @@ Write a wiki page explaining the "lore" of the world and what to expect at each 
 
 ### How far have you got?
 ## Completed
-- All 91 Tier 2 Hunting Stands + Clothing/Weapon Loadouts
-- All 94 Tier 3 Hunting Stands + Clothing/Weapon Loadouts
-- Riffy Contaminated Area Snipers & Patrols
+- All 91 Tier 2 Hunting Stands Snipers + Clothing/Weapon Loadouts
+- All 94 Tier 3 Hunting Stands Snipers + Clothing/Weapon Loadouts
+- Tier 1 - Riffy - Contaminated Area - Snipers + Patrols
 - Knock Knock AI Bandit Loadout
 ## Working
 - All 24 Tier 1 Water Pump's Bandit Patrol Waypoints (Fix Loadouts & Draw Map with Waypoints)
@@ -29,5 +29,5 @@ Write a wiki page explaining the "lore" of the world and what to expect at each 
 - Tier 2 Helicopter Crash Points Patrols
 - Tier 3 Helicopter Crash Points Patrols
 - Tier 3 Church Groups
-- Tier 1 Static Contaminated Zone Patrols
 - Tier 3 Static Contaminated Zone Patrols
+- Outer World Edge Patrol
