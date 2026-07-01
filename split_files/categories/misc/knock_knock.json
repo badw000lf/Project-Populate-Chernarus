@@ -62,6 +62,8 @@
                 ],
                 "gloves": [],
                 "armband": [],
-                "loot": []
+                "loot": [
+					"MoneyRuble1"
+				]
             }
         },

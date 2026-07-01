@@ -1,0 +1,180 @@
+{
+    "version": 2,
+    "showtriggers": 1,
+    "cleanzerovector": 0,
+    "crashsitegroup": "Random",
+    "cardamage": 1,
+    "GroupLocations": [
+		{
+            "name": "Tier_1_ContaminatedArea_Rify_Inside_Patrol",
+            "faction": "Bandits",
+            "waypoints": [
+                "13804.319336 1.656649 11152.617188",
+                "13842.839844 1.226639 11161.213867",
+                "13836.916016 1.199031 11151.909180",
+                "13810.266602 1.656628 11144.406250"
+            ],
+            "npcclasses": [
+                "BanditAI_Adam",
+				"BanditAI_Boris"
+            ],
+            "accuracy": 75.0,
+            "grenadechance": 10.0,
+            "dog": 0,
+            "weaponpool": [
+                "Predefined_M16A2",
+				"Predefined_M16A2_Bayo"
+            ],
+            "npcproperties": {
+                "headgear": [
+					"NBCHoodGray"
+                ],
+                "masks": [
+                    "AirborneMask"
+                ],
+                "vests": [],
+                "backpacks": [],
+                "bodywear": [
+					"NBCJacketGray"
+                ],
+                "belts": [],
+                "pants": [
+					"NBCPantsGray"
+                ],
+                "shoes": [
+					"NBCBootsGray"
+                ],
+                "gloves": [
+					"NBCGlovesGray"
+                ],
+                "armband": [],
+                "loot": [
+                    "MoneyRuble10",
+					"GasMask_Filter"				
+                ]
+            }
+        },
+		{
+            "name": "Tier_1_ContaminatedArea_Rify_Outside_Patrol",
+            "faction": "Bandits",
+            "waypoints": [
+                "13622.507813 1.494751 11064.838867",
+				"13942.212891 1.710559 11182.765625",
+				"13688.730469 2.086754 11226.356445"
+            ],
+            "npcclasses": [
+                "BanditAI_Adam",
+				"BanditAI_Boris"
+            ],
+            "accuracy": 75.0,
+            "grenadechance": 10.0,
+            "dog": 0,
+            "weaponpool": [
+                "Predefined_M16A2",
+				"Predefined_M16A2_Bayo"
+            ],
+            "npcproperties": {
+                "headgear": [
+					"NBCHoodGray"
+                ],
+                "masks": [
+                    "AirborneMask"
+                ],
+                "vests": [],
+                "backpacks": [],
+                "bodywear": [
+					"NBCJacketGray"
+                ],
+                "belts": [],
+                "pants": [
+					"NBCPantsGray"
+                ],
+                "shoes": [
+					"NBCBootsGray"
+                ],
+                "gloves": [
+					"NBCGlovesGray"
+                ],
+                "armband": [],
+                "loot": [
+                    "MoneyRuble10",
+					"GasMask_Filter"				
+                ]
+            }
+        }
+	],
+    "SniperLocations": [
+        {
+            "name": "Tier_1_ContaminatedArea_Rify_Sniper",
+            "positions": [
+                "13754.712891 18.799303 11129.324219",
+				"13788.301758 31.321171 11139.688477",
+				"13867.606445, 25.433674, 11246.532227",
+				"13988.044922, 32.307335, 11222.541992",
+				"13680.038086, 7.798558, 11086.252930",
+				"13899.750000, 15.730770, 11168.876953"
+            ],
+            "npcclass": "BanditAI_Adam",
+            "accuracy": 75.0,
+            "fixedpos": 1,
+            "triggerpos": "13820.987305 1.293449 11167.602539",
+            "weaponpool": [
+                "Predefined_LAR_Sniper"
+            ],
+            "npcproperties": {
+                "headgear": [
+					"NBCHoodGray"
+                ],
+                "masks": [
+                    "AirborneMask"
+                ],
+                "vests": [],
+                "backpacks": [],
+                "bodywear": [
+					"NBCJacketGray",
+                ],
+                "belts": [],
+                "pants": [
+					"NBCPantsGray",
+                ],
+                "shoes": [
+					"NBCBootsGray",
+                ],
+                "gloves": [
+					"NBCGlovesGray",
+                ],
+                "armband": [],
+                "loot": [
+                    "MoneyRuble10",
+					"GasMask_Filter"				
+                ]
+            }
+        }
+    ],
+    "PredefinedWeapons": [
+        {
+            "name": "Predefined_M16A2_Bayo",
+            "weapon": "M16A2",
+            "attachments": [
+                "Mag_STANAGCoupled_30Rnd",
+                "M9A1_Bayonet"
+            ]
+        },
+		{
+            "name": "Predefined_M16A2",
+            "weapon": "M16A2",
+            "attachments": [
+                "Mag_STANAGCoupled_30Rnd"
+            ]
+        },
+		{
+            "name": "Predefined_LAR_Sniper",
+            "weapon": "LAR",
+            "attachments": [
+                "Fal_OeBttstck",
+                "Mag_FAL_20Rnd",
+                "MK4Optic_Black"
+            ]
+        }
+    ]
+}
